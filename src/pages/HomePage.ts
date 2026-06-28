@@ -5,6 +5,7 @@ export class HomePage extends BasePage
 {
     private readonly logOut:Locator;
     private readonly headers:Locator;
+    private readonly dummy:number;
     
     constructor(page:Page)
     {
