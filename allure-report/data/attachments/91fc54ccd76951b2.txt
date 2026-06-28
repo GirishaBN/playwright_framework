@@ -1,0 +1,2 @@
+user name: girisha@gmail.com and password: Test@123
+[ 'My Account', 'My Orders', 'My Affiliate Account', 'Newsletter' ]

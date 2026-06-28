@@ -1,0 +1,14 @@
+[
+    {
+        "username":"girish@gmail.com",
+        "password":"wrong123"
+    },
+    {
+        "username":"wrong username",
+        "password":"pw123"
+    },
+    {
+        "username":"girish@gmail.com",
+        "password":""
+    }
+]

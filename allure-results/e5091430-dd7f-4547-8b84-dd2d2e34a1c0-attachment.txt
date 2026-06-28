@@ -1,0 +1,2 @@
+Base URL: https://naveenautomationlabs.com/
+Navigating to: opencart/index.php?route=account/register

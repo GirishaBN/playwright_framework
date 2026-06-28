@@ -1,0 +1,74 @@
+jsonbody: [
+  {
+    id: 8514211,
+    name: 'mahadevamma1781979685972',
+    email: 'mahadev_1781979685972@dibbert.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8514142,
+    name: 'Raju.',
+    email: 'rajubuju1@dibbert.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8513977,
+    name: 'revamma2',
+    email: 'rev2_1781966920143@dibbert.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8513123,
+    name: 'revamma1',
+    email: 'rev1@dibbert.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8513119,
+    name: 'revamma',
+    email: 'rev@dibbert.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8513118,
+    name: 'rani',
+    email: 'rani@dibbert.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8513113,
+    name: 'sush',
+    email: 'sush@dibbert.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8513104,
+    name: 'Raju.',
+    email: 'rajubuju@dibbert.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8509253,
+    name: 'Mr. Gitanjali Sethi',
+    email: 'mr_sethi_gitanjali@gislason-schinner.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8509252,
+    name: 'Balaaditya Verma',
+    email: 'balaaditya_verma@abbott.test',
+    gender: 'female',
+    status: 'inactive'
+  }
+]
+response status 200
+response status text OK

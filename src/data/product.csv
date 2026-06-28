@@ -1,0 +1,5 @@
+searchKey,productName,resultcount,expectedResult
+macbook,MacBook Pro,3,success
+macbook,MacBook Air,3,success
+imac,iMac,1,success
+i,iPhone,10,sucess

@@ -1,0 +1,9 @@
+{
+  id: 8513268,
+  name: 'revamma2',
+  email: 'rev2_1781891873185@dibbert.test',
+  gender: 'female',
+  status: 'active'
+}
+201
+Created

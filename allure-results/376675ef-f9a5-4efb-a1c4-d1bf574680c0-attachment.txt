@@ -1,0 +1,15 @@
+https://test.api.amadeus.com/v1/security/oauth2/token client_credentials pUYP1Wr0MJmKmt3uSwI7fwcmYjcN7tub VoRGUvlUWMsaFYsZ
+{
+  type: 'amadeusOAuth2Token',
+  username: 'naveenanimation20@gmail.com',
+  application_name: 'July2025APP',
+  client_id: 'pUYP1Wr0MJmKmt3uSwI7fwcmYjcN7tub',
+  token_type: 'Bearer',
+  access_token: 'g5pHr2Rw4BxBT0KK1fXDZPfvpOCM',
+  expires_in: 1799,
+  state: 'approved',
+  scope: ''
+}
+
+g5pHr2Rw4BxBT0KK1fXDZPfvpOCM
+access_token is g5pHr2Rw4BxBT0KK1fXDZPfvpOCM

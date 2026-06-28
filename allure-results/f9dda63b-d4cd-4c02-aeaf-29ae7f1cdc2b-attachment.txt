@@ -1,0 +1,2 @@
+Navigating to: opencart/index.php?route=account/register
+Base URL: undefined

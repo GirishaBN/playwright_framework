@@ -1,0 +1,12 @@
+{
+  type: 'amadeusOAuth2Token',
+  username: 'naveenanimation20@gmail.com',
+  application_name: 'July2025APP',
+  client_id: 'pUYP1Wr0MJmKmt3uSwI7fwcmYjcN7tub',
+  token_type: 'Bearer',
+  access_token: 'zLCoNyNA9t9BSsaaVVQHREpdNFfQ',
+  expires_in: 1799,
+  state: 'approved',
+  scope: ''
+}
+zLCoNyNA9t9BSsaaVVQHREpdNFfQ

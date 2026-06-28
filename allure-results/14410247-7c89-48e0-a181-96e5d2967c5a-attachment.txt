@@ -1,0 +1,74 @@
+jsonbody: [
+  {
+    id: 8513104,
+    name: 'Raju.',
+    email: 'rajubuju@dibbert.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8512086,
+    name: 'Bakula Dubashi Sr.',
+    email: 'bakula_sr_dubashi@dibbert.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8512085,
+    name: 'Vasudeva Shah',
+    email: 'shah_vasudeva@howell-daniel.example',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8512084,
+    name: 'Chidaatma Tagore',
+    email: 'chidaatma_tagore@dibbert.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8512083,
+    name: 'Dhanadeepa Pothuvaal',
+    email: 'pothuvaal_dhanadeepa@windler.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8512082,
+    name: 'Kanti Patil',
+    email: 'patil_kanti@goyette.example',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8512081,
+    name: 'Chandraswaroopa Talwar',
+    email: 'chandraswaroopa_talwar@daugherty.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8512080,
+    name: 'Param Devar',
+    email: 'param_devar@sawayn.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8512079,
+    name: 'Sarvin Adiga',
+    email: 'sarvin_adiga@berge-ohara.example',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8512078,
+    name: 'Vrinda Bandopadhyay',
+    email: 'bandopadhyay_vrinda@kuhlman-walsh.test',
+    gender: 'male',
+    status: 'inactive'
+  }
+]
+response status 200
+response status text OK
